@@ -1,0 +1,23 @@
+/* Rectangle */
+body {
+  background-color: #010312;
+  max-height:100%;
+  overflow-y: hidden;
+}
+
+#alltext {
+  width: auto;
+  color: #ffffff;
+  font-family: 'Russo One', sans-serif;
+  font-style: normal;
+  font-weight: 380;
+  font-size: 60px;
+  line-height: 45px;
+  word-break: break-all:
+  line-height : 3px;
+    text-align: start;
+  justify-content: center;
+}
+span:hover {
+    color: #ffb91c;
+}
